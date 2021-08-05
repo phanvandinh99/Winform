@@ -1,0 +1,17 @@
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\obj\Debug\NguyenHoangThai.csproj.AssemblyReference.cache
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\obj\Debug\NguyenHoangThai.Form1.resources
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\obj\Debug\NguyenHoangThai.Properties.Resources.resources
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\obj\Debug\NguyenHoangThai.csproj.GenerateResource.cache
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\obj\Debug\NguyenHoangThai.csproj.CoreCompileInputs.cache
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\bin\Debug\NguyenHoangThai.exe.config
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\bin\Debug\NguyenHoangThai.exe
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\bin\Debug\NguyenHoangThai.pdb
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\bin\Debug\EntityFramework.dll
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\bin\Debug\EntityFramework.xml
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\obj\Debug\NguyenHoangThai.frmDiem.resources
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\obj\Debug\NguyenHoangThai.frmHocSinh.resources
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\obj\Debug\NguyenHoangThai.csproj.CopyComplete
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\obj\Debug\NguyenHoangThai.exe
+C:\Users\phanv\OneDrive\Máy tính\NguyenHoangThai\NguyenHoangThai\obj\Debug\NguyenHoangThai.pdb
